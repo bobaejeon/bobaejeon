@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Android Software Developer, <br>who's currently interested in computer vision using DL :)
+I am Bobae Jeon from South Korea, <br>who's currently interested in computer vision using DL :)
 
 <!--
 **bobaejeon/bobaejeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
